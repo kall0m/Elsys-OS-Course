@@ -1,2 +1,2 @@
 # OS-Course-Elsys
-Projects from the "Operation systems" course in TUES. 
+Projects from the "Operating systems" course in TUES.
